@@ -1,6 +1,8 @@
 # KSS_Unit_Root
 Kapetanios, Shin and Snell(2003) nonlinear unit root test function Use KSS_Unit_Root (NonlinearTSA) With (In) R Software
 
+https://www.youtube.com/watch?v=24DndCP0epE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
